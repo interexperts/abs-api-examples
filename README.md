@@ -7,6 +7,8 @@ De API wordt via het web aangesproken met GET en POST methods. Accounts voor geb
 
 Uitgebreide documentatie is te vinden in `docs/abs-documentatie-api-201301-def.pdf`.
 
+Het Adressen Beheer Systeem is een product van [InterExperts](http://www.interexperts.nl).
+
 Licentie
 --------
 MIT License. Zie [LICENSE](https://github.com/interexperts/abs-api-examples/blob/master/LICENSE).
