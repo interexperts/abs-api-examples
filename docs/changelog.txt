@@ -1,0 +1,10 @@
+31-07-2013 - Versie 1.1.1
+- Categorieen zijn op te zoeken
+- Bug opgelost bij toevoegen van een adres
+
+26-07-2013 - Versie 1.1.0
+- Bedrijfsinformatie toegevoegd
+
+22-01-2013 - versie 1.0.0
+- Eerste versie API.
+
